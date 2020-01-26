@@ -3,7 +3,7 @@ title: ELB 로드밸런서 관련 오류를 해결하면서...
 date: "2020-01-20T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "humane-typography-in-the-digital-age"
+slug: "fix-elb-error"
 category: "backend"
 tags:
   - "network"
