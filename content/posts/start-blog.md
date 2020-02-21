@@ -3,17 +3,17 @@ title: 개발 블로그 출사표
 date: "2020-02-21T22:00:00.169Z"
 template: "post"
 draft: false
-# slug: "fix-elb-error"
+slug: "start-blog"
 category: "insight"
 tags:
-  # - "network"
+  - "think"
   # - "backend"
   # - "load balancing"
-# description: "ELB 로드밸런서로 인해 발생했던 에러 해결 후기"
+description: "개발 블로그 출사표"
 socialImage: "/media/42-line-bible.jpg"
 ---
 
-블로그를 시작하기에 앞서, 왜 내가 개발 블로그를 시작하려는지, 무엇을 얻고자 하는지를 명확히 해두고자 한다. 열정을 가지고 열심히 글을 쓸 것이나, 동기부여가 때로는 떨어질 수도 있다. 그 때마다 이 글을 보고 초심을 확인했으면 좋겠다.
+블로그를 시작하기에 앞서, 왜 내가 개발 블로그를 시작하려는지, 무엇을 얻고자 하는지를 명확히 해두고자 한다. 열정을 가지고 열심히 글을 쓸 것이나, 동기부여가 때로는 떨어질 수도 있다. 그 때마다 이 글을 보고 초심으로 돌아갔으면 좋겠다.
 
 ### 왜 개발 블로그를 시작하려 하는가?
 
