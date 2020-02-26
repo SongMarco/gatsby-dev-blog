@@ -10,7 +10,7 @@ tags:
   # - "backend"
   # - "load balancing"
 description: "개발 블로그 출사표"
-socialImage: "/media/42-line-bible.jpg"
+socialImage: "/media/justwrite.png"
 ---
 
 ![justwrite](/media/justwrite.png)
