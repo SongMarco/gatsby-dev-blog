@@ -10,7 +10,7 @@ tags:
   - "backend"
   # - "load balancing"
 # description: "스키마가 무엇인지 고민해보"
-# socialImage: "/media/42-line-bible.jpg"
+socialImage: "/media/erroruxui.png"
 ---
 
 ### 들어가며
