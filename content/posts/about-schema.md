@@ -68,7 +68,7 @@ Schema : (계획·이론의) 개요[윤곽]
     - [http://tcpschool.com/xml/xml_xsd_intro](http://tcpschool.com/xml/xml_xsd_intro)
     - [https://ko.wikipedia.org/wiki/XML_스키마_(W3C)](https://ko.wikipedia.org/wiki/XML_%EC%8A%A4%ED%82%A4%EB%A7%88_(W3C))
 
-아래 예시는 각각 JSON, XML 스키마를 나타낸다.
+아래 예시는 각각 JSON, XML 스키********마를 나타낸다.
 ``` JSON
     {
         "title": "강아지 스키마",
