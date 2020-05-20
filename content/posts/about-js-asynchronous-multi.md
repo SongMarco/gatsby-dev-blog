@@ -81,7 +81,7 @@ let main = async () => {
 ```
 
 코드 실행 결과. 앞선 작업이 끝나야 다음 작업이 수행된다... (답답)
-![work_sync](/media/work_sync.gif)
+![work_sync](/media/sync_work.gif)
 
 ## 코드 예제 - Promise.all
 따라서 반복문이 병렬로 처리될 수 있도록 추가적인 조치가 필요해진다. 여러 방법이 있지만, 나의 경우 map과 Promise.all()의 조합이 코드 양이 적어서 주로 활용하는 편이다.
