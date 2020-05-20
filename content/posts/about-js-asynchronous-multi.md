@@ -1,5 +1,5 @@
 ---
-title: 자바스크립트의 비동기 동작과 반복문을 함께 사용해보자
+title: [Javascript] async/await 과 Promise.all로 반복적인 비동기 동작 처리하기
 date: "2020-05-20T10:00:00.169Z"
 template: "post"
 draft: false
@@ -12,8 +12,7 @@ tags:
 # description: "스키마가 무엇인지 고민해보"
 socialImage: "/media/erroruxui.png"
 ---
-
-## 자바스크립트의 비동기 동작에 대해 - 2 : 비동기 동작과 반복문을 함께 사용해보자 (async-await + promise)
+## 자바스크립트의 비동기 동작에 대해 - 2 : async/await 과 Promise.all로 반복적인 비동기 동작 처리하기
 
 자바스크립트에서 비동기 처리를 위해 자주 사용하는 방법은 3가지가 있으며, 자세한 개념 설명은 간단한 gif 이미지와, 아래의 링크로 대체한다. 
 ![sync_all](/media/async_await.gif)
